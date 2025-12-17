@@ -5,7 +5,7 @@
     "react-router-dom": "^7.5.0"
   },
   "devDependencies": {
-    "vite": "^6.3.1"
+    "vite": "^6.3.4"
   },
   "name": "my-application-mainn",
   "version": "1.0.0",
