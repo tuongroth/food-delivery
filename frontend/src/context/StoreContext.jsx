@@ -6,7 +6,7 @@ import axios from "axios";
 export const StoreContext = createContext(null);
 
 const StoreContextProvider = (props) => {
-  const url = "http://localhost:4000";
+  const url = "https://backendd-1-3f1h.onrender.com";
 
   // Cart state
   const [cartItems, setCartItems] = useState({});
